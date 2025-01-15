@@ -3,9 +3,9 @@
 
 <h2> Hi there, I'm Golinie!👋 <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p><em>🤔 I am a computer science master's student from Shenzhen University.<br />
+<p>🤔 I am a computer science master's student from Shenzhen University.<br />
 I like C++/Go and have a strong interest in backend/server-side/Linux, etc.<br />
-My blog’s homepage is: [Golinie](https://blog.csdn.net/theaipower?spm=1001.2101.3001.5343)</em></p>
+My blog’s homepage is: <a href="https://blog.csdn.net/theaipower?spm=1001.2101.3001.5343">Golinie</a></p>
 
 <!--
 **Golinie/Golinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
