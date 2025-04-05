@@ -8,7 +8,7 @@
 😄<strong> Programming Languages and Technology：</strong>C++/Golang/Python/Java/Linux <br />
 ✨<strong> Internship Experience：</strong>China Southern Power Grid, Software Development Intern(2024.6-2024.12)<br />
 🔭<strong> Internship Projects：</strong>Related to Operating Systems (OpenHarmony).<br />
-💬<strong> Blog Homepage：</strong>My blog homepage is <a href="https://blog.csdn.net/theaipower?spm=1001.2101.3001.5343">[-Golinie's Blogs-].</a></p>
+
 
 <!--
 **Golinie/Golinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+💬<strong> Blog Homepage：</strong>My blog homepage is <a href="https://blog.csdn.net/theaipower?spm=1001.2101.3001.5343">[-Golinie's Blogs-].</a></p>
 -->
